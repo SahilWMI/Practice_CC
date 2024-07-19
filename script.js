@@ -14,7 +14,5 @@ for(let i = 0; i<5;i++){
         context.beginPath();
         context.rect(x, y, width, height);
         context.stroke();
-
-        
     }
 }
